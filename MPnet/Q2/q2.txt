@@ -1,0 +1,88 @@
+INFO:root:Namespace(N=10, NP=100, data_path='./data/', device=0, drop=True, env_type='s3d', epoch=500, lvc=True, model_path='./models/', reproducible=False, result_path='./results/', s=0, sp=2001, world_size=20.0)
+INFO:root:planning start: env=0
+INFO:root:cumulative: success rate=0.96, runtime (min/avg/max/stdev) = 0.04/0.70/5.63/1.12s
+INFO:root:planning start: env=1
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.04/0.56/5.63/0.92s
+INFO:root:planning start: env=2
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.03/0.60/5.63/1.01s
+INFO:root:planning start: env=3
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.03/0.62/5.63/1.00s
+INFO:root:planning start: env=4
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.03/0.64/6.92/1.03s
+INFO:root:planning start: env=5
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.02/0.60/6.92/0.98s
+INFO:root:planning start: env=6
+INFO:root:cumulative: success rate=0.99, runtime (min/avg/max/stdev) = 0.02/0.57/6.92/0.92s
+INFO:root:planning start: env=7
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.02/0.61/8.30/1.04s
+INFO:root:planning start: env=8
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.02/0.59/8.30/1.00s
+INFO:root:planning start: env=9
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.02/0.58/8.30/0.98s
+INFO:root:Namespace(N=10, NP=100, data_path='./data/', device=0, drop=False, env_type='s3d', epoch=500, lvc=True, model_path='./models/', reproducible=False, result_path='./results/', s=0, sp=2001, world_size=20.0)
+INFO:root:planning start: env=0
+INFO:root:cumulative: success rate=0.96, runtime (min/avg/max/stdev) = 0.04/0.60/7.70/1.22s
+INFO:root:planning start: env=1
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.04/0.52/7.70/0.97s
+INFO:root:planning start: env=2
+INFO:root:cumulative: success rate=0.99, runtime (min/avg/max/stdev) = 0.03/0.54/7.70/1.03s
+INFO:root:planning start: env=3
+INFO:root:cumulative: success rate=0.99, runtime (min/avg/max/stdev) = 0.03/0.56/7.70/1.02s
+INFO:root:planning start: env=4
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.03/0.62/7.70/1.10s
+INFO:root:planning start: env=5
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.03/0.59/7.70/1.06s
+INFO:root:planning start: env=6
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.03/0.57/7.70/1.02s
+INFO:root:planning start: env=7
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.03/0.60/10.75/1.10s
+INFO:root:planning start: env=8
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.03/0.57/10.75/1.07s
+INFO:root:planning start: env=9
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.03/0.57/10.75/1.06s
+INFO:root:Namespace(N=10, NP=100, data_path='./data/', device=0, drop=True, env_type='s3d', epoch=500, lvc=False, model_path='./models/', reproducible=False, result_path='./results/', s=0, sp=2001, world_size=20.0)
+INFO:root:planning start: env=0
+INFO:root:Namespace(N=10, NP=100, data_path='./data/', device=0, drop=False, env_type='s3d', epoch=500, lvc=True, model_path='./models/', reproducible=False, result_path='./results/', s=0, sp=2001, world_size=20.0)
+INFO:root:planning start: env=0
+INFO:root:cumulative: success rate=0.99, runtime (min/avg/max/stdev) = 0.04/0.56/4.99/0.98s
+INFO:root:planning start: env=1
+INFO:root:cumulative: success rate=0.98, runtime (min/avg/max/stdev) = 0.04/0.54/6.04/0.99s
+INFO:root:planning start: env=2
+INFO:root:cumulative: success rate=0.99, runtime (min/avg/max/stdev) = 0.03/0.59/9.72/1.14s
+INFO:root:planning start: env=3
+INFO:root:cumulative: success rate=0.99, runtime (min/avg/max/stdev) = 0.03/0.59/9.72/1.07s
+INFO:root:planning start: env=4
+INFO:root:cumulative: success rate=0.99, runtime (min/avg/max/stdev) = 0.03/0.63/9.72/1.10s
+INFO:root:planning start: env=5
+INFO:root:cumulative: success rate=0.99, runtime (min/avg/max/stdev) = 0.03/0.59/9.72/1.06s
+INFO:root:planning start: env=6
+INFO:root:cumulative: success rate=0.99, runtime (min/avg/max/stdev) = 0.03/0.57/9.72/1.03s
+INFO:root:planning start: env=7
+INFO:root:cumulative: success rate=0.99, runtime (min/avg/max/stdev) = 0.03/0.58/9.72/1.04s
+INFO:root:planning start: env=8
+INFO:root:cumulative: success rate=0.99, runtime (min/avg/max/stdev) = 0.03/0.57/9.72/1.05s
+INFO:root:planning start: env=9
+INFO:root:cumulative: success rate=0.99, runtime (min/avg/max/stdev) = 0.03/0.56/9.72/1.05s
+INFO:root:Namespace(N=10, NP=100, data_path='./data/', device=0, drop=True, env_type='s3d', epoch=500, lvc=False, model_path='./models/', reproducible=False, result_path='./results/', s=0, sp=2001, world_size=20.0)
+INFO:root:planning start: env=0
+INFO:root:cumulative: success rate=0.89, runtime (min/avg/max/stdev) = 0.03/0.84/10.54/1.87s
+INFO:root:planning start: env=1
+INFO:root:cumulative: success rate=0.91, runtime (min/avg/max/stdev) = 0.03/1.11/25.61/3.17s
+INFO:root:planning start: env=2
+INFO:root:cumulative: success rate=0.90, runtime (min/avg/max/stdev) = 0.03/1.20/25.61/3.22s
+INFO:root:planning start: env=3
+INFO:root:cumulative: success rate=0.89, runtime (min/avg/max/stdev) = 0.03/1.37/27.66/3.54s
+INFO:root:planning start: env=4
+INFO:root:cumulative: success rate=0.86, runtime (min/avg/max/stdev) = 0.03/1.49/27.66/3.53s
+INFO:root:planning start: env=5
+INFO:root:cumulative: success rate=0.87, runtime (min/avg/max/stdev) = 0.03/1.45/27.66/3.49s
+INFO:root:planning start: env=6
+INFO:root:cumulative: success rate=0.88, runtime (min/avg/max/stdev) = 0.03/1.32/27.66/3.27s
+INFO:root:planning start: env=7
+INFO:root:cumulative: success rate=0.88, runtime (min/avg/max/stdev) = 0.03/1.34/27.66/3.21s
+INFO:root:planning start: env=8
+INFO:root:cumulative: success rate=0.88, runtime (min/avg/max/stdev) = 0.03/1.26/27.66/3.07s
+INFO:root:planning start: env=9
+INFO:root:cumulative: success rate=0.87, runtime (min/avg/max/stdev) = 0.02/1.31/27.66/3.12s
+INFO:root:Namespace(N=10, NP=100, data_path='./data/', device=0, drop=True, env_type='s2d', epoch=500, lvc=False, model_path='./models/', reproducible=False, result_path='./results/', s=0, sp=4001, world_size=20.0)
+INFO:root:Namespace(N=10, NP=100, data_path='./data/', device=0, drop=True, env_type='s2d', epoch=100, lvc=False, model_path='./models/', reproducible=False, result_path='./results/', s=0, sp=4001, world_size=20.0)
